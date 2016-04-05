@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WuziqiPanel">
+        <attr name="wp_maxLine" format="integer"/>
+        <attr name="wp_color" format="color" />
+        <attr name="wp_lineWidth" format="dimension" />
+    </declare-styleable>
+</resources>
